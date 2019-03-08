@@ -1,0 +1,201 @@
+IT'S SHOWTIME
+    TALK TO THE HAND "Let's play a game ... "
+    TALK TO THE HAND "a simple math game, shall we solve some equations?"
+    TALK TO THE HAND ""
+    DO IT NOW beginGame
+YOU HAVE BEEN TERMINATED
+
+LISTEN TO ME VERY CAREFULLY beginGame
+    HEY CHRISTMAS TREE totalLvl
+    YOU SET US UP 3
+    HEY CHRISTMAS TREE currentLevel
+    YOU SET US UP 0
+    HEY CHRISTMAS TREE checkLevel
+    YOU SET US UP @NO PROBLEMO
+    HEY CHRISTMAS TREE checkLevelValue
+    YOU SET US UP @NO PROBLEMO
+    HEY CHRISTMAS TREE loopHole
+    YOU SET US UP @NO PROBLEMO
+    HEY CHRISTMAS TREE inputResult
+    YOU SET US UP 0
+    HEY CHRISTMAS TREE compareValue
+    YOU SET US UP 0
+
+    STICK AROUND loopHole
+        GET TO THE CHOPPER currentLevel
+        HERE IS MY INVITATION currentLevel
+        GET UP 1
+        ENOUGH TALK
+
+        GET TO THE CHOPPER checkLevel
+        HERE IS MY INVITATION currentLevel
+        YOU ARE NOT YOU YOU ARE ME 1
+        ENOUGH TALK
+
+        BECAUSE I'M GOING TO SAY PLEASE checkLevel
+            TALK TO THE HAND "LVL 1 => (2 + 2 * 2) / 3:"
+            GET YOUR ASS TO MARS inputResult
+            DO IT NOW readInputValue
+            
+            GET TO THE CHOPPER compareValue
+            HERE IS MY INVITATION 2
+            ENOUGH TALK
+
+            GET TO THE CHOPPER checkLevelValue
+            HERE IS MY INVITATION inputResult
+            YOU ARE NOT YOU YOU ARE ME compareValue
+            ENOUGH TALK
+            BECAUSE I'M GOING TO SAY PLEASE checkLevelValue
+                TALK TO THE HAND ""
+                TALK TO THE HAND "!!! Alright! Let's move on !!!"
+                TALK TO THE HAND ""
+            BULLSHIT
+                TALK TO THE HAND "Interesting?!?!"
+                GET TO THE CHOPPER currentLevel
+                HERE IS MY INVITATION 0
+                ENOUGH TALK
+            YOU HAVE NO RESPECT FOR LOGIC
+
+        YOU HAVE NO RESPECT FOR LOGIC
+
+        GET TO THE CHOPPER checkLevel
+        HERE IS MY INVITATION currentLevel
+        YOU ARE NOT YOU YOU ARE ME 2
+        ENOUGH TALK
+
+        BECAUSE I'M GOING TO SAY PLEASE checkLevel
+            TALK TO THE HAND "LVL 2 => 8 % 2:"
+            GET YOUR ASS TO MARS inputResult
+            DO IT NOW readInputValue
+            
+            GET TO THE CHOPPER compareValue
+            HERE IS MY INVITATION 0
+            ENOUGH TALK
+
+            GET TO THE CHOPPER checkLevelValue
+            HERE IS MY INVITATION inputResult
+            YOU ARE NOT YOU YOU ARE ME compareValue
+            ENOUGH TALK
+            BECAUSE I'M GOING TO SAY PLEASE checkLevelValue
+                TALK TO THE HAND ""
+                TALK TO THE HAND "!!! Dawaj, lecimy dalej !!!"
+                TALK TO THE HAND ""
+            BULLSHIT
+                TALK TO THE HAND "Focus my friend!!"
+                GET TO THE CHOPPER currentLevel
+                HERE IS MY INVITATION 1
+                ENOUGH TALK
+            YOU HAVE NO RESPECT FOR LOGIC
+        YOU HAVE NO RESPECT FOR LOGIC
+
+        GET TO THE CHOPPER checkLevel
+        HERE IS MY INVITATION currentLevel
+        YOU ARE NOT YOU YOU ARE ME 3
+        ENOUGH TALK
+
+        BECAUSE I'M GOING TO SAY PLEASE checkLevel
+            TALK TO THE HAND "LVL 3 => Devstyle jest vlogiem numerem?:"
+            GET YOUR ASS TO MARS inputResult
+            DO IT NOW readInputValue
+            
+            GET TO THE CHOPPER compareValue
+            HERE IS MY INVITATION 1
+            ENOUGH TALK
+
+            GET TO THE CHOPPER checkLevelValue
+            HERE IS MY INVITATION inputResult
+            YOU ARE NOT YOU YOU ARE ME compareValue
+            ENOUGH TALK
+            BECAUSE I'M GOING TO SAY PLEASE checkLevelValue
+                TALK TO THE HAND ""
+                TALK TO THE HAND "!!! No i teraz ostatni krok !!!"
+                TALK TO THE HAND ""
+            BULLSHIT
+                TALK TO THE HAND "Ojj, bedzie lanie od Macka!!"
+                GET TO THE CHOPPER currentLevel
+                HERE IS MY INVITATION 2
+                ENOUGH TALK
+            YOU HAVE NO RESPECT FOR LOGIC
+        YOU HAVE NO RESPECT FOR LOGIC
+
+        GET TO THE CHOPPER checkLevel
+        HERE IS MY INVITATION currentLevel
+        YOU ARE NOT YOU YOU ARE ME 4
+        ENOUGH TALK
+
+        BECAUSE I'M GOING TO SAY PLEASE checkLevel
+            TALK TO THE HAND "LVL 4 => Fibonnaci -> Fib(6) + Fib(1):"
+            GET YOUR ASS TO MARS inputResult
+            DO IT NOW readInputValue
+            
+            GET TO THE CHOPPER compareValue
+            HERE IS MY INVITATION 9
+            ENOUGH TALK
+
+            GET TO THE CHOPPER checkLevelValue
+            HERE IS MY INVITATION inputResult
+            YOU ARE NOT YOU YOU ARE ME compareValue
+            ENOUGH TALK
+            BECAUSE I'M GOING TO SAY PLEASE checkLevelValue
+                TALK TO THE HAND ""
+                TALK TO THE HAND "!!! BRAWO !!!"
+                TALK TO THE HAND ""
+            BULLSHIT
+                TALK TO THE HAND "0, 1, 1 ... Fn = F(n-1) + F(n-2)!!"
+                GET TO THE CHOPPER currentLevel
+                HERE IS MY INVITATION 3
+                ENOUGH TALK
+            YOU HAVE NO RESPECT FOR LOGIC
+        YOU HAVE NO RESPECT FOR LOGIC
+
+        GET TO THE CHOPPER checkLevel
+        HERE IS MY INVITATION currentLevel
+        LET OFF SOME STEAM BENNET totalLvl
+        ENOUGH TALK
+    
+        BECAUSE I'M GOING TO SAY PLEASE checkLevel
+
+            GET TO THE CHOPPER loopHole
+            HERE IS MY INVITATION @I LIED
+            ENOUGH TALK
+        YOU HAVE NO RESPECT FOR LOGIC
+    CHILL
+
+    TALK TO THE HAND ""
+    TALK TO THE HAND "!!!! 2019 !!!!"
+    TALK TO THE HAND " A teraz czas na wierszyk"
+    TALK TO THE HAND ""
+    DO IT NOW endGameAndShowPoem
+HASTA LA VISTA, BABY
+
+
+LISTEN TO ME VERY CAREFULLY readInputValue
+GIVE THESE PEOPLE AIR
+    HEY CHRISTMAS TREE inputVal
+    YOU SET US UP @NO PROBLEMO
+    GET YOUR ASS TO MARS inputVal
+    DO IT NOW
+    I WANT TO ASK YOU A BUNCH OF QUESTIONS AND I WANT TO HAVE THEM ANSWERED IMMEDIATELY
+    I'LL BE BACK inputVal
+HASTA LA VISTA, BABY 
+
+LISTEN TO ME VERY CAREFULLY endGameAndShowPoem
+    TALK TO THE HAND "==============================================================="
+    TALK TO THE HAND "||          Raz w roku wielka impreza się odbywa,            ||"
+    TALK TO THE HAND "||          Gro ludzi na nią sie pcha, przybywa              ||"
+    TALK TO THE HAND "||                                                           ||"
+    TALK TO THE HAND "||        Spotkania, rozmowy, zabawy oraz prelekcje          ||"
+    TALK TO THE HAND "||        Moga to być całkiem interesujące lekcje            ||"
+    TALK TO THE HAND "||                                                           ||"
+    TALK TO THE HAND "||    Miasto zabaw, studentów i wielkich imprez zaprasza     ||"
+    TALK TO THE HAND "||  Skusi Cię na pewno obecność Radka, Marka oraz Fidiasza,  ||"
+    TALK TO THE HAND "||                                                           ||"
+    TALK TO THE HAND "||    Wroclaw, moje miasto, znów chce być stolicą kultury,   ||"
+    TALK TO THE HAND "||       Zbliża sie WROC# - więc unieśmy ręce do góry.       ||"
+    TALK TO THE HAND "=============================================================="
+    TALK TO THE HAND "||                                                           ||"
+    TALK TO THE HAND "||         Code & poem by: Bartosz 'Bart' Szczepański        ||"
+    TALK TO THE HAND "||              See you in WROC# (hopefully :) )             ||"
+    TALK TO THE HAND "||                                                           ||"
+    TALK TO THE HAND "=============================================================="
+HASTA LA VISTA, BABY
